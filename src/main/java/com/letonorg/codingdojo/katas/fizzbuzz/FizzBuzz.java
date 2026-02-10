@@ -3,6 +3,7 @@ package com.letonorg.codingdojo.katas.fizzbuzz;
 import java.util.ArrayList;
 import java.util.List;
 
+// https://codingdojo.org/kata/FizzBuzz/
 public class FizzBuzz {
 
     static void main() {
